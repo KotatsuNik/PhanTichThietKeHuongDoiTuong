@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApp1\ViewFlight\bin\Debug\ViewFlight.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApp1\ViewFlight\bin\Debug\ViewFlight.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApp1\ViewFlight\bin\Debug\ViewFlight.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.exe
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.csprojResolveAssemblyReference.cache
+F:\docs\ConsoleApp1\ViewFlight\bin\Debug\ViewFlight.exe.config
+F:\docs\ConsoleApp1\ViewFlight\bin\Debug\ViewFlight.exe
+F:\docs\ConsoleApp1\ViewFlight\bin\Debug\ViewFlight.pdb
+F:\docs\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.csprojResolveAssemblyReference.cache
+F:\docs\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.csproj.CoreCompileInputs.cache
+F:\docs\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.exe
+F:\docs\ConsoleApp1\ViewFlight\obj\Debug\ViewFlight.pdb

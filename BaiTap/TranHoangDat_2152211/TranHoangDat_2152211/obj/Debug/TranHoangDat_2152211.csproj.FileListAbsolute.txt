@@ -1,0 +1,7 @@
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\obj\Debug\TranHoangDat_2152211.csprojAssemblyReference.cache
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\obj\Debug\TranHoangDat_2152211.csproj.CoreCompileInputs.cache
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\bin\Debug\TranHoangDat_2152211.exe.config
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\bin\Debug\TranHoangDat_2152211.exe
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\bin\Debug\TranHoangDat_2152211.pdb
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\obj\Debug\TranHoangDat_2152211.exe
+D:\Subject\Ptich Tke HDTuong\BaiTap\TranHoangDat_2152211\TranHoangDat_2152211\obj\Debug\TranHoangDat_2152211.pdb
